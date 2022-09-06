@@ -5,7 +5,7 @@ pragma solidity 0.8.0;
 // below import was commented out because it is not needed in 0.8
 // import '@openzeppelin/contracts/math/SafeMath.sol';
 
-contract CoinFlip {
+contract CoinFlip { 
 
     // using SafeMath for uint256; // not needed too
 
