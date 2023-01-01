@@ -3,7 +3,7 @@ pragma solidity 0.8.0;
 
 import "./coinflip.sol";
 
-contract CoinFlipAttack {
+contract CoinFlipSmokeIt {
 
     // create an instance of the deployed coinflip contract, address from the oz level task
     CoinFlip public victimAddr; 
