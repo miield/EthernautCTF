@@ -10,3 +10,4 @@ First is to trigger the the fallback function in Delegation contract to call the
 3. Clicked the owner function to see the owner (a different address)
 4. Clicked the pwn function and sent the tracnsaction
 5. Click the owner function, got my metamask wallet address.
+6. Go to the Ethernaut and submit instance.
